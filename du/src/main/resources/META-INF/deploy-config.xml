@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy-config>
+	<ra-entity
+		resource-adaptor-id="ResourceAdaptorID[name=Radius-1.1-RA,vendor=com.juno-software,version=1.0]"
+		entity-name="RadiusRA">
+		<properties file="" />
+		<ra-link name="RadiusRA" />
+	</ra-entity>
+</deploy-config>
